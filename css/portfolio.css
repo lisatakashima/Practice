@@ -1,0 +1,33 @@
+body {
+    background-color: #eee9e6;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div.header {
+    background-color: #b7a49f;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 80px;
+    width: 100%;
+    border: none;
+}
+
+h1.title {
+    color: #eee9e6;
+    display: flex;
+    justify-content: center;
+
+}
+
+div.background {
+    position: relative;
+}
+
+div.nav {
+    background-color: aqua;
+    position: absolute;
+    top: 0;
+    left:0;
+    display: flex;
+}
